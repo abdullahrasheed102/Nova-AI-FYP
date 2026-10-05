@@ -1,0 +1,24 @@
+Nova AI Setup
+
+WINDOWS
+1. Install Python 3.10 and clone the project anywhere.
+2. From the project root, run:
+   python -m venv venv
+   venv\Scripts\activate
+   pip install -r requirements.txt
+3. Configure the required API keys in the expected local configuration files.
+4. Run: python NOVA\MAIN\Main.py
+
+UBUNTU
+1. Install Python 3.10 or newer and clone the project anywhere.
+2. Install system packages:
+   sudo apt install python3 python3-venv python3-pip python3-tk portaudio19-dev espeak-ng ffmpeg flac xdg-utils
+3. From the project root, run:
+   python3 -m venv venv
+   source venv/bin/activate
+   pip install -r requirements.txt
+4. Configure the required API keys in the expected local configuration files.
+5. Run: python3 NOVA/MAIN/Main.py
+
+For desktop automation, log in with Ubuntu on Xorg because PyAutoGUI does not work well on Wayland. The wallpaper command is for GNOME.
+Say “wake up” or “Nova” to activate the assistant.
