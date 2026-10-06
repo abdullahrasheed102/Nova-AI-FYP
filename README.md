@@ -4,7 +4,7 @@ A voice-controlled desktop assistant built with Python.
 
 ## Developers
 
-Muhammad Abdullah Rasheed, Adil Hayyat and Jabran Adeel  
+[Muhammad Abdullah Rasheed](https://abdullahrasheed.tech), [Adil Hayyat](https://github.com/Adil-Hayyat) and [Jabran Adeel](github.com/jabran-adeel)  
 Final Year Project (FYP)
 
 ## Features
@@ -118,7 +118,7 @@ Example voice commands implemented in the command handler:
 
 See the command list image for more examples:
 
-![Nova AI voice command list](nova-commands.jpg)
+![Nova AI voice command list](nova-commands.jpeg)
 
 ## Known limitations
 
