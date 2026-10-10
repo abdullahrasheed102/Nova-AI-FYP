@@ -4,7 +4,7 @@ A voice-controlled desktop assistant built with Python.
 
 ## Developers
 
-[Muhammad Abdullah Rasheed](https://abdullahrasheed.tech), [Adil Hayyat](https://github.com/Adil-Hayyat) and [Jabran Adeel](github.com/jabran-adeel)  
+[Muhammad Abdullah Rasheed](https://abdullahrasheed.tech), [Adil Hayyat](https://github.com/Adil-Hayyat) and [Jabran Adeel](https://github.com/jabran-adeel)  
 Final Year Project (FYP)
 
 ## Features

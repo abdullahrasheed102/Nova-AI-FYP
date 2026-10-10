@@ -3,7 +3,7 @@ beautifulsoup4
 colorama
 DateTime
 edge-tts
-fitz
+pymupdf
 google
 googletrans
 geopy
